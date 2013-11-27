@@ -3,3 +3,7 @@
 http://railscasts.com/episodes/136-jquery-ajax-revised
 
 Requires Ruby 1.9.2 or higher.
+
+## License
+
+MIT: http://aliel.mit-license.org/
